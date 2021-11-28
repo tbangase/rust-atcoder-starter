@@ -1,4 +1,4 @@
-use proconio::{input, fastout};
+use proconio::{input, fastout, marker::*};
 
 use std::time::Instant;
 
